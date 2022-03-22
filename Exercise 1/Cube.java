@@ -4,11 +4,11 @@ import java.util.*;
 
 class Cube{
 
-public static void main(String args[])
-{
- Scanner m=new Scanner(System.in);
- System.out.print("Enter the number : ");
- int n=m.nextInt();
+ public static void main(String args[])
+ {
+  Scanner m=new Scanner(System.in);
+  System.out.print("Enter the number : ");
+  int n=m.nextInt();
  		for(int i=0;i<=n;i++) 
 		{
  		int s=i*i*i;
