@@ -10,7 +10,7 @@ d) using Arrays .binarySearch ()
 import java.util.*;
 class ArraySearch{
 
-	 int linear(int arr[],int item,int len){  //methord for linear search
+	 int linear(int arr[],int item,int len){  //method for linear search
 		int j=0;
 		while(j<len){
 			if(arr[j]==item){
@@ -23,7 +23,7 @@ class ArraySearch{
 	
 	
 	}
-	int binary(int arr[],int item,int low,int high){   	//methord for binary search
+	int binary(int arr[],int item,int low,int high){   	//method for binary search
 		while(low<=high){
 			int mid=low+(high-low)/2;
 			
@@ -41,7 +41,7 @@ class ArraySearch{
 		return -1;
 	
 	}
-	int recursiveBinarySearch(int arr[],int item,int low,int high){		//methord for recursiveBinarySearch search
+	int recursiveBinarySearch(int arr[],int item,int low,int high){		//method for recursiveBinarySearch search
 		
 		if(low<=high){
 		
@@ -67,7 +67,7 @@ class ArraySearch{
 	
 	
 	
-	public static void main(String args[]){			//main methord
+	public static void main(String args[]){			//main method
 		Scanner ob =new Scanner(System.in);			//scanner object
 		ArraySearch s= new ArraySearch();			//object for class ArraySearch
 		System.out.print("Enter no.of elements in the array: ");
