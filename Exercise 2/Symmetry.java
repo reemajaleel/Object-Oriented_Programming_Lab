@@ -136,4 +136,4 @@ Printing the input matrix :
 
 The given matrix is not a square matrix, so not symmetric.
 */
-
+//Verified
