@@ -31,7 +31,7 @@ class Employee{
 			this.eSalary=salary;
 	
 	}
-	void disp(){  		//methord for display the details
+	void disp(){  		//method for display the details
 			
 			System.out.println("Employee no: "+eno+"\nEmployee Name: "+eName+"\nSalary:"+eSalary+"\n");
 	
