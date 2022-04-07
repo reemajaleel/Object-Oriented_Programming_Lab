@@ -18,7 +18,7 @@ class OverLoadArea{
 	}
 			
 class Overloading{
-	public static void main(String ar[]){	//main method
+	public static void main(String args[]){	//main method
 	
 			Scanner sc=new Scanner(System.in);		 //scanner object
 			OverLoadArea o=new OverLoadArea();		 //object of class OverLoadArea
