@@ -23,7 +23,7 @@ class Complex{
 		
 		
 		}
-		public static void main(String ar[]){
+		public static void main(String args[]){
 				Scanner obj=new Scanner(System.in);
 				System.out.println("Complex Number 1");
 				System.out.print("Enter real part: ");
