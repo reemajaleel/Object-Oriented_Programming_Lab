@@ -11,7 +11,7 @@ class AddMatrix
 		Scanner in = new Scanner(System.in);
  		System.out.println("Enter the number of rows: ");
 		row = in.nextInt();
- 		System.out.println("Enter the number columns: ");
+ 		System.out.println("Enter the number of columns: ");
 		col = in.nextInt();
  
 		int mat1[][] = new int[row][col];
@@ -57,7 +57,7 @@ OUTPUT:
 
 Enter the number of rows: 
 2
-Enter the number columns: 
+Enter the number of columns: 
 2
 Enter the elements of matrix1: 
 1
