@@ -41,7 +41,7 @@ public class LowestPrice { 		//main class
 		System.out.println("-----------------------------");
 		
 		
-		System.out.println("Enter the details of product 3");			//details of product 1
+		System.out.println("Enter the details of product 3");			//details of product 3
 		System.out.print("\nProduct code: ");
 		p3.pcode=ob.nextInt();
 		System.out.print("Product Name: ");
