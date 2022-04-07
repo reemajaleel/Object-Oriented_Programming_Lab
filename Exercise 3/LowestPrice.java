@@ -15,7 +15,7 @@ class Product{ 		//create a class product
 }
 
 public class LowestPrice { 		//main class
-	public static void main(String ar[]){ 	 //main function
+	public static void main(String args[]){ 	 //main function
 		Scanner ob=new Scanner(System.in);
 		Product p1=new Product();          //create 3 objects of Product class
 		Product p2=new Product();
