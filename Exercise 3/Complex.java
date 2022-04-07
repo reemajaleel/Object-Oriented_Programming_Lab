@@ -43,7 +43,7 @@ class Complex{
 				System.out.print("Enter imaginary part: ");
 				int i1=obj.nextInt();
 				Complex c1= new Complex(r1,i1);
-				System.out.print("\nComplex Number 1 => ");
+				System.out.print("\nComplex Number 2 => ");
 				showComp(c1);
 				System.out.println("----------------------------");
 				
@@ -77,7 +77,7 @@ Complex Number 2
 Enter real part: 5
 Enter imaginary part: 9
 
-Complex Number 1 => 5+i9
+Complex Number 2 => 5+i9
 ----------------------------
 
 Result:6+i9
