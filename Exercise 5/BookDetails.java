@@ -198,7 +198,7 @@ Deception_Point
 Enter Author name :
 Dan_Brown
 Enter Fiction type :
-Nove
+Novel
 
 
 1.LITERATURE
@@ -237,7 +237,7 @@ ____FICTION BOOK 2 INFORMATION ___
 Publisher name : Corgi_Books
 Book title : Deception_Point
 Author : Dan_Brown
-Genre : Nove
+Genre : Novel
 
 
 1.LITERATURE
