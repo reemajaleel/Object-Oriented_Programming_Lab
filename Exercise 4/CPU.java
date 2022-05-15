@@ -34,7 +34,7 @@ class CPU		//Outer class
 		void display()
 		{
 			System.out.println("RAM SIZE: "+size+ " GB");
-			System.out.println("RAM MANUFACTERER: "+manu);
+			System.out.println("RAM MANUFACTURER: "+manu);
 		}
 	}
 
@@ -64,6 +64,6 @@ PRICE: 5000.0
 NUMBER OF CORES: 5
 CPU MANUFACTURER: AMD
 RAM SIZE: 4 GB
-RAM MANUFACTERER: DELL
+RAM MANUFACTURER: DELL
 */
 //Verified
